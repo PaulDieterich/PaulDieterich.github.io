@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Dieterich.dev</title>
+    <link>/portfolio/</link>
+    <description>Recent content in Portfolio on Dieterich.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automatisierte Gartenbewässerung</title>
+      <link>/portfolio/gartenbewaesserung/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/gartenbewaesserung/</guid>
+      <description>Automatisierte Gartenbewässerung Idee Wie kann an heißen Tagen felder und kleine gärten bewässert werden? Dafür habe ich im im Modul IoT/Industie 4.0 im 4 Fachsemester der Hochschule Osnabrück eine lösung entwickelt.
+Materieal  M5StackCore M5Stack Unit-Watering M5Stack LoRaWAN686-Unit Ein LoRaWAN Gateway(TheThingsNetwork Gateway)  Software  InfluxDB NodeRED Grafana  Images Garten Grafana </description>
+    </item>
+    
+    <item>
+      <title>Space Game</title>
+      <link>/portfolio/spacegame/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/spacegame/</guid>
+      <description>Idee Die Aufgabe war es ein 3D spiel mit OpenGL zu entwicklen
+Steuerung  W -&amp;gt; Vorwerts S -&amp;gt; Rückwerts D -&amp;gt; Drehen nach rechts A -&amp;gt; Drehen nach links Steuern und Ziehelen mit der maus Linke Maustaste -&amp;gt; Schießen R -&amp;gt; Radio an/aus BILD AUF/AB -&amp;gt; Nächster/Vorheriger Track ENTF -&amp;gt; Restart Escape -&amp;gt; Stoppen  Ziel Sammle ressourcen, werte dein Schiff an Stationen auf! Ressourcen sind in Asteroiden enthalten und können an den Stationen verkauft werden.</description>
+    </item>
+    
+  </channel>
+</rss>
